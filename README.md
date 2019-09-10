@@ -32,9 +32,9 @@ Exploration of Runway ML
 Much of the code used in examples has been adapted, modified and expanded upon from original sources provided by...
 
 
-- Yinging Shi (teachable machine in P5.js)
-- ML5js
-- Andreas Refsgaard (source of examples from previous teaching collaborations) 
+- [Yinging Shi](https://github.com/yining1023) (teachable machine in P5.js)
+- [ML5js](https://ml5js.org/)
+- [Andreas Refsgaard](https://andreasrefsgaard.dk/) (source of examples from previous teaching collaborations) 
 * [Rebecca Fiebrink and Wekinator](http://www.wekinator.org/examples/)
 * [Bérenger Recoules](https://github.com/b2renger/workshop_ml_PCD2019)
 * [Gene Kogan and ML4A](https://ml4a.github.io/demos/) 
