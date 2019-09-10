@@ -2,6 +2,11 @@
 A short workshop on creative machine learning 
 
 ## Normally Workshop
+Intro to concepts
+
+## P5js
+Setting up an account.
+Basic drawing methods. 
 
 ## Classification
 Mouse, webcam, images
