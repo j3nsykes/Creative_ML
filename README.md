@@ -6,17 +6,19 @@ Intro to concepts
 
 ## P5js
 - Setting up an account.
+- [P5js reference page](https://p5js.org/reference/)
+- [P5 editor](https://editor.p5js.org/)
 - Basic drawing methods. 
 
 ## Classification
-- Mouse
-- Webcam
-- Image
+- [Mouse](https://editor.p5js.org/j3nsykes/sketches/3i_ub__YI) 
+- [Webcam](https://editor.p5js.org/j3nsykes/sketches/QX4JKTlPb)
+- [Image]()
 
 ## MobileNet Classification
 Using pretrained classification with ImageNet dataset
 
-- MobileNet webcam classification
+- [MobileNet webcam classification](https://editor.p5js.org/j3nsykes/sketches/cv1-AG8xx)
 
 
 ## Regression
