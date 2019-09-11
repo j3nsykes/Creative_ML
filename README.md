@@ -26,7 +26,7 @@ Using pretrained classification with [ImageNet dataset](https://github.com/ml5js
 
 ## PoseNet 
 - [Single part tracking](https://editor.p5js.org/j3nsykes/sketches/9j_3cvV_y)
-- [Body Poses}(https://editor.p5js.org/j3nsykes/sketches/HeqXzN-gt  )
+- [Body Poses](https://editor.p5js.org/j3nsykes/sketches/HeqXzN-gt  )
 
 ## Beyond ...
 - [Speech recogonition simple](https://editor.p5js.org/j3nsykes/sketches/aCvqW4zgW)
