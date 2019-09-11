@@ -8,7 +8,7 @@ Intro to concepts
 - Setting up an account.
 - [P5js reference page](https://p5js.org/reference/)
 - [P5 editor](https://editor.p5js.org/)
-- Basic drawing methods. 
+- [Basic drawing methods](https://editor.p5js.org/) 
 
 ## Classification
 - [Mouse](https://editor.p5js.org/j3nsykes/sketches/3i_ub__YI) 
@@ -16,21 +16,22 @@ Intro to concepts
 - [Image]()
 
 ## MobileNet Classification
-Using pretrained classification with ImageNet dataset
+Using pretrained classification with [ImageNet dataset](https://github.com/ml5js/ml5-library/blob/master/src/utils/IMAGENET_CLASSES.js)
 
 - [MobileNet webcam classification](https://editor.p5js.org/j3nsykes/sketches/cv1-AG8xx)
 
 
 ## Regression
-- Webcam
+- [Webcam](https://editor.p5js.org/j3nsykes/sketches/rLnHnw1fD)
 
 ## PoseNet 
-- Single part tracking
-- Body Poses
+- [Single part tracking](https://editor.p5js.org/j3nsykes/sketches/9j_3cvV_y)
+- [Body Poses}(https://editor.p5js.org/j3nsykes/sketches/HeqXzN-gt  )
 
 ## Beyond ...
-- Speech recogonition
-- Facial Expression
+- [Speech recogonition simple](https://editor.p5js.org/j3nsykes/sketches/aCvqW4zgW)
+- [Speech recognition template](https://editor.p5js.org/j3nsykes/sketches/QYJnctH08)
+- [Facial Expression](https://editor.p5js.org/j3nsykes/sketches/_9-uYWryn)
 
 
 ## If time ... Runway
