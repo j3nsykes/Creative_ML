@@ -20,6 +20,7 @@ Using pretrained classification with [ImageNet dataset](https://github.com/ml5js
 
 - [Still Image](https://editor.p5js.org/j3nsykes/sketches/QtlNw6sYk)
 - [MobileNet webcam classification](https://editor.p5js.org/j3nsykes/sketches/cv1-AG8xx)
+- [MobileNet text 2 speech output](https://editor.p5js.org/j3nsykes/sketches/_OxAksHVU)
 
 
 ## Regression
