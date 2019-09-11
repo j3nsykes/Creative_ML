@@ -13,11 +13,12 @@ Intro to concepts
 ## Classification
 - [Mouse](https://editor.p5js.org/j3nsykes/sketches/3i_ub__YI) 
 - [Webcam](https://editor.p5js.org/j3nsykes/sketches/QX4JKTlPb)
-- [Image](https://editor.p5js.org/j3nsykes/sketches/QtlNw6sYk)
+- [Image](https://editor.p5js.org/j3nsykes/sketches/g3x85yDcG)
 
 ## MobileNet Classification
 Using pretrained classification with [ImageNet dataset](https://github.com/ml5js/ml5-library/blob/master/src/utils/IMAGENET_CLASSES.js)
 
+- [Still Image](https://editor.p5js.org/j3nsykes/sketches/QtlNw6sYk)
 - [MobileNet webcam classification](https://editor.p5js.org/j3nsykes/sketches/cv1-AG8xx)
 
 
